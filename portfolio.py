@@ -6,5 +6,6 @@ app = Flask(__name__)
 def portfolio():
    return render_template('portfolio.html')
 
-if __name__ == '__main__':
-   app.run()
+#local only
+#if __name__ == '__main__':
+#   app.run()
