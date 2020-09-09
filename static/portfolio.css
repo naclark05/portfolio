@@ -36,9 +36,6 @@ footer {
 	text-align: center
 }
 
-
-
-
 @media only screen and (min-height: 600px) {
 	h1 {
 		text-align: center;
@@ -120,10 +117,19 @@ footer {
 	.proj1 {
 		margin: 0% 25% 0% 25%;
 		text-align: left;
+		padding-bottom: 5%;
 
 	}
 
 	.proj1 p {
+		text-align: left;
+	}
+
+	.proj2 {
+		margin: 0% 25% 0% 25%;
+		text-align: left;
+	}
+	.proj2 p {
 		text-align: left;
 	}
 
